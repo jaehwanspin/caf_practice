@@ -1,4 +1,4 @@
-cmake_minmum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.10)
 project(caf_practice CXX)
 
 # Download automatically, you can also just copy the conan.cmake file
